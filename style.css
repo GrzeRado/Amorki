@@ -5,3 +5,18 @@
     padding: 0.3em;
 }
 
+.Left1
+{
+    padding: 5em;
+    display: block;
+    float: left;
+    display: flex;
+}
+
+.Right1
+{
+    padding: 10em;
+    text-align: center;
+    float: inherit;
+    display: flex;
+}
